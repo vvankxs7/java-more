@@ -1,4 +1,4 @@
 public class Aluno{
-	string nome;
+	String nome;
 	float nota;
 }
