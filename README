@@ -1,0 +1,20 @@
+Programas Básicos em Java
+
+Programas desenvolvidos durante o curso técnico de Java no IFCE.(sou iniciante)
+
+Programas básico 
+Abstração: Criação da classe Aluno como um molde para representar uma entidade do mundo real.
+
+​Instanciação: Criação de um objeto real (a) a partir da classe definida.
+
+​Atribuição e Tipagem: Uso de String para nomes e float para notas, garantindo a integridade dos dados.
+
+Linguagem: Java
+​Paradigma: Orientação a Objetos (OO)
+
+Como compilar:
+javac Aluno.java 
+DemoAluno.java
+
+Como executar:
+Java DemoAluno
